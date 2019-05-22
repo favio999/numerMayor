@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">numeroMayor</string>
+    <string name="txt_1">Numero Mayor</string>
+    <string name="txt_2">Contador</string>
+    <string name="txt_button">NUM1</string>
+    <string name="txt_button2">NUM2</string>
+    <string name="txt_3">Desarrollado por : Favio Quispe</string>
+</resources>
